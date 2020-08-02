@@ -17,8 +17,8 @@ jobs:
         with:
           comment_tag_name: DEVTO
           feed_list: "https://dev.to/feed/uvdepanda"
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: uvdepanda/blog-post-workflow@master
         with:
           comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/@yubraj.ghimire"
+          feed_list: "https://medium.com/feed/@yubraj.ghimire"
 
