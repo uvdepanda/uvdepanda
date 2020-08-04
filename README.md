@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-My name is Yubraj Ghimire, people call me **Yub** and I like it that way 😁 I am FullStack Developer at [@etribes](https://github.com/eTribes-Connect-GmbH), working mostly building online shops. Spryker, Shopware 6, and Shopify are my top three frameworks of interest. I also enjoy writing blog articles, it gives me a sense of contribution to my community.   
+My name is Yubraj Ghimire, people call me **Yub** and I like it that way 😁 I am FullStack Developer at [@etribes](https://github.com/eTribes-Connect-GmbH), working mostly building online shops. Spryker, Shopware 6, and Shopify are my top three frameworks of interest. I also enjoy writing blog articles, it gives me a sense of contribution to the dev community.   
 
 ## 🕊 If you want to connect me
 [Linkedin](https://www.linkedin.com/in/yubraj-ghimire-20241384/) && [Xing](https://www.xing.com/profile/Yubraj_Ghimire/cv)
