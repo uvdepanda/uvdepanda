@@ -22,6 +22,7 @@ These are my latest posts on [Medium](https://medium.com/@yubraj.ghimire) and [D
 ### Medium
 
 <!-- MEDIUM:START -->
+- [What’s up with Monolithic and Microservices Architecture](https://medium.com/etribes-tech/whats-up-with-monolithic-and-microservices-architecture-797d4442d944?source=rss-2f3eba92fb8b------2)
 - [Some cool extensions with HTTP Basic Authentication](https://medium.com/etribes-tech/some-cool-extensions-with-http-basic-authentication-1cf62e173a67?source=rss-2f3eba92fb8b------2)
 - [JavaScript Debugging in PhpStorm](https://medium.com/etribes-tech/javascript-debugging-in-phpstorm-87b71a941e26?source=rss-2f3eba92fb8b------2)
 - [Restricting Access with HTTP Basic Authentication](https://medium.com/etribes-tech/restricting-access-with-http-basic-authentication-fdfde20f4e33?source=rss-2f3eba92fb8b------2)
