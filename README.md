@@ -12,11 +12,11 @@ These are my latest posts on [Medium](https://medium.com/@yubraj.ghimire) and [D
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [E-day: A festival of knowledge sharing & caring](https://dev.to/etribes/e-day-a-festival-of-knowledge-sharing-caring-4cfg)
 - [What's up with Monolithic and Microservices Architecture](https://dev.to/etribes/what-s-up-with-monolithic-and-microservices-architecture-4d6o)
 - [Some cool extensions with HTTP Basic Authentication](https://dev.to/etribes/some-cool-extensions-with-basic-authentication-4l2j)
 - [JavaScript Debugging in PhpStorm](https://dev.to/etribes/javascript-debugging-in-phpstorm-43n0)
 - [Restricting Access with HTTP Basic Authentication](https://dev.to/etribes/restricting-access-with-http-basic-authentication-5ac0)
-- [Compiling Xdebug manually and integrating with PhpStorm on macOS Catalina 10.15.4](https://dev.to/etribes/compiling-xdebug-manually-and-integrating-with-phpstorm-on-macos-catalina-10-15-4-4d0n)
 <!-- DEVTO:END -->
 
 ### Medium
